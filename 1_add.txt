@@ -2,10 +2,6 @@ i am 1_add.txt
 this is new line
 this is second line;
 insert by union branch
-<<<<<<< HEAD
 this is four
-=======
-
-
-this is six;
->>>>>>> e058497fce832593efc030f971d3ac60bb7f916f
+this is five;
+this is seven

@@ -1,6 +1,7 @@
 i am 1_add.txt
 this is new line
 this is second line;
+insert by union branch
 <<<<<<< HEAD
 this is four
 =======

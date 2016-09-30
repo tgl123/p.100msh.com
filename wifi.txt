@@ -1,2 +1,0 @@
-hello wifi
-add from linux by  command :git check out!
